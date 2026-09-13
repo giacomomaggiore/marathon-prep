@@ -5,9 +5,9 @@ days:
   - day: 1
     date: "2026.10.05"
     sessions:
-      - title: "Easy Run"
-        specs: "12 km @ 4:55/km, Zone 2"
-        guidelines: "Standard easy day."
+      - title: "Recovery Bike"
+        specs: "50 min easy spin"
+        guidelines: "Very light effort, low resistance, high cadence. Full recovery — not a workout."
         strava_url: null
         fit_file: null
         real_training: null
@@ -27,9 +27,9 @@ days:
   - day: 3
     date: "2026.10.07"
     sessions:
-      - title: "Strength"
-        specs: "40 min lower-body strength (standard routine)"
-        guidelines: "No run today. Keep it light heading into the travel days."
+      - title: "Easy Run"
+        specs: "11 km, Zone 2"
+        guidelines: "Easy, heading into the travel days."
         strava_url: null
         fit_file: null
         real_training: null
@@ -39,7 +39,7 @@ days:
     date: "2026.10.08"
     sessions:
       - title: "Easy Run"
-        specs: "11 km @ 5:00/km"
+        specs: "12 km, Zone 2"
         guidelines: "Cutback week — no second hard session. Keep it easy."
         strava_url: null
         fit_file: null
@@ -50,7 +50,7 @@ days:
     date: "2026.10.09"
     sessions:
       - title: "Easy Run"
-        specs: "9 km @ 5:05/km"
+        specs: "10 km, Zone 2"
         guidelines: "Holiday travel begins — kept deliberately easy, no speed today as planned."
         strava_url: null
         fit_file: null
@@ -61,7 +61,7 @@ days:
     date: "2026.10.10"
     sessions:
       - title: "Easy Run"
-        specs: "11 km @ 5:05/km"
+        specs: "12 km, Zone 2"
         guidelines: "Holiday day 2 — fully easy, run by feel around your travel schedule."
         strava_url: null
         fit_file: null

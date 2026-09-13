@@ -5,9 +5,9 @@ days:
   - day: 1
     date: "2026.09.21"
     sessions:
-      - title: "Easy Run"
-        specs: "12 km @ 4:55/km, Zone 2"
-        guidelines: "Keep it relaxed after yesterday's rest day."
+      - title: "Recovery Bike"
+        specs: "50 min easy spin"
+        guidelines: "Very light effort, low resistance, high cadence. Full recovery — not a workout."
         strava_url: null
         fit_file: null
         real_training: null
@@ -27,9 +27,9 @@ days:
   - day: 3
     date: "2026.09.23"
     sessions:
-      - title: "Strength"
-        specs: "40 min lower-body strength (standard routine)"
-        guidelines: "No run today. Keep load moderate."
+      - title: "Easy Run"
+        specs: "12 km, Zone 2"
+        guidelines: "Easy, absorb yesterday's tempo."
         strava_url: null
         fit_file: null
         real_training: null
@@ -39,7 +39,7 @@ days:
     date: "2026.09.24"
     sessions:
       - title: "Easy Run"
-        specs: "11 km @ 5:00/km"
+        specs: "12 km, Zone 2"
         guidelines: "No second hard session this week — Sunday's race is the stimulus, so keep this conversational."
         strava_url: null
         fit_file: null
@@ -50,7 +50,7 @@ days:
     date: "2026.09.25"
     sessions:
       - title: "Easy Run"
-        specs: "10 km @ 5:05/km"
+        specs: "11 km, Zone 2"
         guidelines: "Stay light and relaxed, two days out from PolimiRun."
         strava_url: null
         fit_file: null

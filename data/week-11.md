@@ -5,9 +5,9 @@ days:
   - day: 1
     date: "2026.11.23"
     sessions:
-      - title: "Easy Run"
-        specs: "8 km @ 5:00/km + 4 x 20 s strides"
-        guidelines: "Easy and light, six days out."
+      - title: "Recovery Bike"
+        specs: "50 min easy spin"
+        guidelines: "Very light effort, low resistance, high cadence. Full recovery, six days out."
         strava_url: null
         fit_file: null
         real_training: null
@@ -29,7 +29,7 @@ days:
     sessions:
       - title: "Rest + Mobility"
         specs: "20-25 min mobility sequence"
-        guidelines: "No run, no strength — just mobility. Prioritize hips, calves, ankles."
+        guidelines: "No run — just mobility. Prioritize hips, calves, ankles."
         strava_url: null
         fit_file: null
         real_training: null
@@ -39,7 +39,7 @@ days:
     date: "2026.11.26"
     sessions:
       - title: "Easy Run"
-        specs: "5 km @ 5:05/km + 4 x 20 s strides"
+        specs: "10 km, Zone 2 + 4 x 20 s strides"
         guidelines: "Short and easy, legs should feel light."
         strava_url: null
         fit_file: null

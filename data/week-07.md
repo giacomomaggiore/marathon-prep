@@ -5,9 +5,9 @@ days:
   - day: 1
     date: "2026.10.26"
     sessions:
-      - title: "Easy Run"
-        specs: "13 km @ 4:50/km, Zone 2"
-        guidelines: "Easy day before the week's double-threshold session — don't add extra stress today."
+      - title: "Recovery Bike"
+        specs: "50 min easy spin"
+        guidelines: "Very light effort, low resistance, high cadence. Full recovery ahead of the week's double-threshold session."
         strava_url: null
         fit_file: null
         real_training: null
@@ -35,9 +35,9 @@ days:
   - day: 3
     date: "2026.10.28"
     sessions:
-      - title: "Strength"
-        specs: "40 min lower-body strength (standard routine)"
-        guidelines: "No run today. Legs will still be feeling yesterday's double — keep load conservative."
+      - title: "Easy Run"
+        specs: "11 km, Zone 2"
+        guidelines: "Legs will still be feeling yesterday's double — keep this genuinely easy."
         strava_url: null
         fit_file: null
         real_training: null
@@ -58,7 +58,7 @@ days:
     date: "2026.10.30"
     sessions:
       - title: "Easy Run"
-        specs: "12 km @ 5:00/km"
+        specs: "13 km, Zone 2"
         guidelines: "Easy, this is the biggest week of the block coming up in volume terms — protect recovery."
         strava_url: null
         fit_file: null

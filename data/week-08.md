@@ -5,9 +5,9 @@ days:
   - day: 1
     date: "2026.11.02"
     sessions:
-      - title: "Easy Run"
-        specs: "14 km @ 4:50/km, Zone 2"
-        guidelines: "Highest-volume week of the whole block starts today — stay disciplined on easy pace."
+      - title: "Recovery Bike"
+        specs: "50 min easy spin"
+        guidelines: "Very light effort, low resistance, high cadence. Highest-volume week of the whole block starts today — protect this recovery day."
         strava_url: null
         fit_file: null
         real_training: null
@@ -27,9 +27,9 @@ days:
   - day: 3
     date: "2026.11.04"
     sessions:
-      - title: "Strength"
-        specs: "40 min lower-body strength (standard routine)"
-        guidelines: "No run today."
+      - title: "Easy Run"
+        specs: "13 km, Zone 2"
+        guidelines: "Easy, absorb yesterday's intervals."
         strava_url: null
         fit_file: null
         real_training: null
@@ -58,7 +58,7 @@ days:
     date: "2026.11.06"
     sessions:
       - title: "Easy Run"
-        specs: "12 km @ 5:00/km"
+        specs: "13 km, Zone 2"
         guidelines: "Easy — this is the peak of the entire block, protect recovery closely."
         strava_url: null
         fit_file: null

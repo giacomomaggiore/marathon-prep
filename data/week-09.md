@@ -5,9 +5,9 @@ days:
   - day: 1
     date: "2026.11.09"
     sessions:
-      - title: "Easy Run"
-        specs: "12 km @ 4:55/km, Zone 2"
-        guidelines: "Volume starts coming down from here. Easy and relaxed."
+      - title: "Recovery Bike"
+        specs: "50 min easy spin"
+        guidelines: "Very light effort, low resistance, high cadence. Volume starts coming down from here."
         strava_url: null
         fit_file: null
         real_training: null
@@ -27,9 +27,9 @@ days:
   - day: 3
     date: "2026.11.11"
     sessions:
-      - title: "Strength"
-        specs: "30 min lower-body strength (standard routine, reduced load)"
-        guidelines: "No run today. Dial the load back slightly as the taper begins."
+      - title: "Easy Run"
+        specs: "11 km, Zone 2"
+        guidelines: "Easy, taper beginning — keep this light."
         strava_url: null
         fit_file: null
         real_training: null
@@ -39,7 +39,7 @@ days:
     date: "2026.11.12"
     sessions:
       - title: "Easy Run"
-        specs: "11 km @ 5:00/km"
+        specs: "12 km, Zone 2"
         guidelines: "No second hard session this week — easy and light."
         strava_url: null
         fit_file: null
@@ -50,7 +50,7 @@ days:
     date: "2026.11.13"
     sessions:
       - title: "Easy Run"
-        specs: "9 km @ 5:05/km"
+        specs: "10 km, Zone 2"
         guidelines: "Easy, two days out from the last big long run of the cycle."
         strava_url: null
         fit_file: null

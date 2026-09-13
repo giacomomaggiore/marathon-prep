@@ -5,9 +5,9 @@ days:
   - day: 1
     date: "2026.09.14"
     sessions:
-      - title: "Easy Run"
-        specs: "12 km @ 4:55/km, Zone 2"
-        guidelines: "Relaxed aerobic effort, quick cadence, HR under ~148 bpm."
+      - title: "Recovery Bike"
+        specs: "50 min easy spin"
+        guidelines: "Very light effort, low resistance, high cadence. Full recovery — not a workout."
         strava_url: null
         fit_file: null
         real_training: null
@@ -16,9 +16,9 @@ days:
   - day: 2
     date: "2026.09.15"
     sessions:
-      - title: "Intervals"
-        specs: "8 x 1000 m @ 3:22/km, 90 s jog"
-        guidelines: "Warm up 3 km. Start controlled — reps 1-2 slightly conservative, hold even splits after that."
+      - title: "Easy Run"
+        specs: "12 km, Zone 2"
+        guidelines: "Relaxed aerobic effort, quick cadence, HR under ~148 bpm."
         strava_url: null
         fit_file: null
         real_training: null
@@ -26,17 +26,6 @@ days:
         ai_analysis: null
   - day: 3
     date: "2026.09.16"
-    sessions:
-      - title: "Strength"
-        specs: "40 min lower-body strength (standard routine)"
-        guidelines: "Moderate load. No run today — keep this session controlled, no fatigue chasing this early in the build."
-        strava_url: null
-        fit_file: null
-        real_training: null
-        giacomo_notes: null
-        ai_analysis: null
-  - day: 4
-    date: "2026.09.17"
     sessions:
       - title: "Tempo"
         specs: "20 min @ 3:40/km, continuous"
@@ -46,11 +35,22 @@ days:
         real_training: null
         giacomo_notes: null
         ai_analysis: null
+  - day: 4
+    date: "2026.09.17"
+    sessions:
+      - title: "Easy Run"
+        specs: "11 km, Zone 2"
+        guidelines: "Easy, absorb yesterday's tempo."
+        strava_url: null
+        fit_file: null
+        real_training: null
+        giacomo_notes: null
+        ai_analysis: null
   - day: 5
     date: "2026.09.18"
     sessions:
       - title: "Easy Run"
-        specs: "10 km @ 5:05/km"
+        specs: "11 km, Zone 2"
         guidelines: "Very easy — legs should feel fresh for tomorrow's medium-long run."
         strava_url: null
         fit_file: null

@@ -5,9 +5,9 @@ days:
   - day: 1
     date: "2026.11.16"
     sessions:
-      - title: "Easy Run"
-        specs: "10 km @ 4:55/km + 6 x 20 s strides"
-        guidelines: "Easy, with strides to keep the legs sharp during the taper."
+      - title: "Recovery Bike"
+        specs: "50 min easy spin"
+        guidelines: "Very light effort, low resistance, high cadence. Full recovery."
         strava_url: null
         fit_file: null
         real_training: null
@@ -27,9 +27,9 @@ days:
   - day: 3
     date: "2026.11.18"
     sessions:
-      - title: "Strength"
-        specs: "20 min light lower-body strength + short plyometric block (pogo hops, low bounding)"
-        guidelines: "No run today. Light load only — this is about neuromuscular sharpness, not building fitness."
+      - title: "Easy Run"
+        specs: "10 km, Zone 2 + 4 x 20 s strides"
+        guidelines: "Easy, with a few sharp strides at the end to keep the legs neuromuscularly primed during the taper."
         strava_url: null
         fit_file: null
         real_training: null
@@ -39,7 +39,7 @@ days:
     date: "2026.11.19"
     sessions:
       - title: "Easy Run"
-        specs: "9 km @ 5:00/km + 6 x 20 s strides"
+        specs: "10 km, Zone 2 + 6 x 20 s strides"
         guidelines: "Easy, legs should be starting to feel fresher day by day."
         strava_url: null
         fit_file: null
@@ -50,7 +50,7 @@ days:
     date: "2026.11.20"
     sessions:
       - title: "Easy Run"
-        specs: "6 km @ 5:05/km"
+        specs: "10 km, Zone 2"
         guidelines: "Very easy, short."
         strava_url: null
         fit_file: null

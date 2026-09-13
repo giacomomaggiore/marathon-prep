@@ -5,9 +5,9 @@ days:
   - day: 1
     date: "2026.10.19"
     sessions:
-      - title: "Easy Run"
-        specs: "13 km @ 4:50/km, Zone 2"
-        guidelines: "First week of the peak block — same easy-day discipline as before, don't drift faster."
+      - title: "Recovery Bike"
+        specs: "50 min easy spin"
+        guidelines: "Very light effort, low resistance, high cadence. Full recovery — not a workout."
         strava_url: null
         fit_file: null
         real_training: null
@@ -35,9 +35,9 @@ days:
   - day: 3
     date: "2026.10.21"
     sessions:
-      - title: "Strength"
-        specs: "40 min lower-body strength (standard routine)"
-        guidelines: "No run today."
+      - title: "Easy Run"
+        specs: "13 km, Zone 2"
+        guidelines: "Easy, absorb yesterday's double."
         strava_url: null
         fit_file: null
         real_training: null
@@ -58,7 +58,7 @@ days:
     date: "2026.10.23"
     sessions:
       - title: "Easy Run"
-        specs: "11 km @ 5:00/km"
+        specs: "12 km, Zone 2"
         guidelines: "Easy, protect recovery ahead of the weekend."
         strava_url: null
         fit_file: null
