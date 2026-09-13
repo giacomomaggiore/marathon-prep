@@ -36,7 +36,7 @@ days:
     date: "2026.10.28"
     sessions:
       - title: "Easy Run"
-        specs: "11 km, Zone 2"
+        specs: "11 km"
         guidelines: "Legs will still be feeling yesterday's double — keep this genuinely easy."
         strava_url: null
         fit_file: null
@@ -46,9 +46,9 @@ days:
   - day: 4
     date: "2026.10.29"
     sessions:
-      - title: "Intervals"
-        specs: "8 x 1000 m @ 3:18/km, 90 s jog"
-        guidelines: "Second quality session of the week. Warm up fully; if legs feel flat from Tuesday, hold pace rather than pushing to hit it."
+      - title: "Marathon Pace"
+        specs: "4 x 2.5 km @ 3:47/km, 90 s jog"
+        guidelines: "Second quality session of the week. Warm up fully; if legs feel flat from Tuesday's double, hold rhythm rather than pushing to hit the pace."
         strava_url: null
         fit_file: null
         real_training: null
@@ -58,7 +58,7 @@ days:
     date: "2026.10.30"
     sessions:
       - title: "Easy Run"
-        specs: "13 km, Zone 2"
+        specs: "13 km"
         guidelines: "Easy, this is the biggest week of the block coming up in volume terms — protect recovery."
         strava_url: null
         fit_file: null

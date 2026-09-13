@@ -16,9 +16,9 @@ days:
   - day: 2
     date: "2026.10.20"
     sessions:
-      - title: "Intervals (AM)"
-        specs: "10 x 1000 m @ 3:18/km, 75 s jog"
-        guidelines: "Denser session — shorter recovery, faster reps. Warm up 3 km and stay patient early."
+      - title: "Threshold Intervals (AM)"
+        specs: "10 x 1000 m @ 3:33/km, 60 s jog"
+        guidelines: "Dense threshold session — short recovery keeps the effort honest even at a controlled pace. Warm up 3 km and stay patient early."
         strava_url: null
         fit_file: null
         real_training: null
@@ -36,7 +36,7 @@ days:
     date: "2026.10.21"
     sessions:
       - title: "Easy Run"
-        specs: "13 km, Zone 2"
+        specs: "13 km"
         guidelines: "Easy, absorb yesterday's double."
         strava_url: null
         fit_file: null
@@ -58,7 +58,7 @@ days:
     date: "2026.10.23"
     sessions:
       - title: "Easy Run"
-        specs: "12 km, Zone 2"
+        specs: "12 km"
         guidelines: "Easy, protect recovery ahead of the weekend."
         strava_url: null
         fit_file: null

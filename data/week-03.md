@@ -16,9 +16,9 @@ days:
   - day: 2
     date: "2026.09.29"
     sessions:
-      - title: "Intervals"
-        specs: "6 x 1200 m @ 3:20/km, 2 min jog"
-        guidelines: "Warm up 3 km. Reps should feel controlled through rep 4, then hold on for the last two."
+      - title: "Marathon Pace"
+        specs: "3 x 3 km @ 3:48/km, 2 min jog"
+        guidelines: "First standalone marathon-pace session of the block. Warm up 3 km; each rep should feel like controlled race rhythm, not a race."
         strava_url: null
         fit_file: null
         real_training: null
@@ -28,8 +28,8 @@ days:
     date: "2026.09.30"
     sessions:
       - title: "Easy Run"
-        specs: "12 km, Zone 2"
-        guidelines: "Easy, absorb yesterday's intervals."
+        specs: "12 km"
+        guidelines: "Easy, absorb yesterday's marathon-pace session."
         strava_url: null
         fit_file: null
         real_training: null
@@ -50,7 +50,7 @@ days:
     date: "2026.10.02"
     sessions:
       - title: "Easy Run"
-        specs: "12 km, Zone 2"
+        specs: "12 km"
         guidelines: "Very easy — absorb the last two hard days."
         strava_url: null
         fit_file: null

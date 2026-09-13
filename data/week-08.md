@@ -16,9 +16,9 @@ days:
   - day: 2
     date: "2026.11.03"
     sessions:
-      - title: "Intervals"
-        specs: "12 x 1000 m @ 3:15/km, 75 s jog"
-        guidelines: "Sharpest, largest interval session of the cycle. Warm up thoroughly; even splits matter more than a fast first half."
+      - title: "Threshold Intervals"
+        specs: "12 x 1000 m @ 3:32/km, 60 s jog"
+        guidelines: "Largest threshold-volume session of the cycle. Warm up thoroughly; even splits matter more than a fast first half."
         strava_url: null
         fit_file: null
         real_training: null
@@ -28,7 +28,7 @@ days:
     date: "2026.11.04"
     sessions:
       - title: "Easy Run"
-        specs: "13 km, Zone 2"
+        specs: "13 km"
         guidelines: "Easy, absorb yesterday's intervals."
         strava_url: null
         fit_file: null
@@ -58,7 +58,7 @@ days:
     date: "2026.11.06"
     sessions:
       - title: "Easy Run"
-        specs: "13 km, Zone 2"
+        specs: "13 km"
         guidelines: "Easy — this is the peak of the entire block, protect recovery closely."
         strava_url: null
         fit_file: null

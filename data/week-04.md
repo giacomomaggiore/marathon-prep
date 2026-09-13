@@ -16,9 +16,9 @@ days:
   - day: 2
     date: "2026.10.06"
     sessions:
-      - title: "Intervals"
-        specs: "6 x 1000 m @ 3:22/km, 90 s jog"
-        guidelines: "Last hard session before the cutback/travel days — no need to push beyond controlled effort."
+      - title: "Easy Run"
+        specs: "11 km"
+        guidelines: "Easy — the week's quality session has moved to tomorrow."
         strava_url: null
         fit_file: null
         real_training: null
@@ -27,9 +27,9 @@ days:
   - day: 3
     date: "2026.10.07"
     sessions:
-      - title: "Easy Run"
-        specs: "11 km, Zone 2"
-        guidelines: "Easy, heading into the travel days."
+      - title: "Threshold Intervals"
+        specs: "6 x 1000 m @ 3:35/km, 75 s jog"
+        guidelines: "Last hard session before the cutback/travel days — no need to push beyond controlled effort."
         strava_url: null
         fit_file: null
         real_training: null
@@ -39,7 +39,7 @@ days:
     date: "2026.10.08"
     sessions:
       - title: "Easy Run"
-        specs: "12 km, Zone 2"
+        specs: "12 km"
         guidelines: "Cutback week — no second hard session. Keep it easy."
         strava_url: null
         fit_file: null
@@ -50,7 +50,7 @@ days:
     date: "2026.10.09"
     sessions:
       - title: "Easy Run"
-        specs: "10 km, Zone 2"
+        specs: "10 km"
         guidelines: "Holiday travel begins — kept deliberately easy, no speed today as planned."
         strava_url: null
         fit_file: null
@@ -61,7 +61,7 @@ days:
     date: "2026.10.10"
     sessions:
       - title: "Easy Run"
-        specs: "12 km, Zone 2"
+        specs: "12 km"
         guidelines: "Holiday day 2 — fully easy, run by feel around your travel schedule."
         strava_url: null
         fit_file: null

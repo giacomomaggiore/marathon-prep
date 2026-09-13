@@ -39,7 +39,7 @@ days:
     date: "2026.11.26"
     sessions:
       - title: "Easy Run"
-        specs: "10 km, Zone 2 + 4 x 20 s strides"
+        specs: "10 km + 4 x 20 s strides"
         guidelines: "Short and easy, legs should feel light."
         strava_url: null
         fit_file: null

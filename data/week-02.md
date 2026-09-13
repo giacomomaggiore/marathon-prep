@@ -28,7 +28,7 @@ days:
     date: "2026.09.23"
     sessions:
       - title: "Easy Run"
-        specs: "12 km, Zone 2"
+        specs: "12 km"
         guidelines: "Easy, absorb yesterday's tempo."
         strava_url: null
         fit_file: null
@@ -39,7 +39,7 @@ days:
     date: "2026.09.24"
     sessions:
       - title: "Easy Run"
-        specs: "12 km, Zone 2"
+        specs: "12 km"
         guidelines: "No second hard session this week — Sunday's race is the stimulus, so keep this conversational."
         strava_url: null
         fit_file: null
@@ -49,9 +49,9 @@ days:
   - day: 5
     date: "2026.09.25"
     sessions:
-      - title: "Easy Run"
-        specs: "11 km, Zone 2"
-        guidelines: "Stay light and relaxed, two days out from PolimiRun."
+      - title: "Threshold Intervals"
+        specs: "4 x 1000 m @ 3:36/km, 90 s jog"
+        guidelines: "Second quality session of the week. Kept short and controlled — this shouldn't leave a mark before Sunday."
         strava_url: null
         fit_file: null
         real_training: null
@@ -61,7 +61,7 @@ days:
     date: "2026.09.26"
     sessions:
       - title: "Shakeout Run"
-        specs: "10 km @ 5:00/km"
+        specs: "12 km @ 5:00/km"
         guidelines: "Short and easy the day before the race — leave everything on the table for tomorrow."
         strava_url: null
         fit_file: null

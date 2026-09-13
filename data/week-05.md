@@ -16,9 +16,9 @@ days:
   - day: 2
     date: "2026.10.13"
     sessions:
-      - title: "Intervals"
-        specs: "5 x 1600 m @ 3:24/km, 2:30 min jog"
-        guidelines: "Longer reps this week, slightly more aerobic bias. Warm up 3 km, hold pace even across all five."
+      - title: "Threshold Intervals"
+        specs: "6 x 1500 m @ 3:35/km, 90 s jog"
+        guidelines: "Longer threshold reps this week. Warm up 3 km, hold pace even across all six — this is about sustained rhythm, not speed."
         strava_url: null
         fit_file: null
         real_training: null
@@ -28,7 +28,7 @@ days:
     date: "2026.10.14"
     sessions:
       - title: "Easy Run"
-        specs: "12 km, Zone 2"
+        specs: "12 km"
         guidelines: "Easy, back into normal rhythm now that travel is over."
         strava_url: null
         fit_file: null
@@ -50,7 +50,7 @@ days:
     date: "2026.10.16"
     sessions:
       - title: "Easy Run"
-        specs: "12 km, Zone 2"
+        specs: "12 km"
         guidelines: "Easy, absorb the week's two hard days."
         strava_url: null
         fit_file: null

@@ -16,9 +16,9 @@ days:
   - day: 2
     date: "2026.11.10"
     sessions:
-      - title: "Intervals"
-        specs: "6 x 1000 m @ 3:25/km, 2 min jog"
-        guidelines: "Shorter and less taxing than peak weeks — sharpening, not grinding. Should feel comfortably hard, not maximal."
+      - title: "Marathon Pace"
+        specs: "5 x 2 km @ 3:48/km, 90 s jog"
+        guidelines: "Marathon-specific sharpening rather than a grind. Should feel like locked-in race rhythm, not maximal effort."
         strava_url: null
         fit_file: null
         real_training: null
@@ -28,7 +28,7 @@ days:
     date: "2026.11.11"
     sessions:
       - title: "Easy Run"
-        specs: "11 km, Zone 2"
+        specs: "11 km"
         guidelines: "Easy, taper beginning — keep this light."
         strava_url: null
         fit_file: null
@@ -39,7 +39,7 @@ days:
     date: "2026.11.12"
     sessions:
       - title: "Easy Run"
-        specs: "12 km, Zone 2"
+        specs: "12 km"
         guidelines: "No second hard session this week — easy and light."
         strava_url: null
         fit_file: null
@@ -50,7 +50,7 @@ days:
     date: "2026.11.13"
     sessions:
       - title: "Easy Run"
-        specs: "10 km, Zone 2"
+        specs: "10 km"
         guidelines: "Easy, two days out from the last big long run of the cycle."
         strava_url: null
         fit_file: null

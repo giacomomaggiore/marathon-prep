@@ -17,7 +17,7 @@ days:
     date: "2026.09.15"
     sessions:
       - title: "Easy Run"
-        specs: "12 km, Zone 2"
+        specs: "12 km"
         guidelines: "Relaxed aerobic effort, quick cadence, HR under ~148 bpm."
         strava_url: null
         fit_file: null
@@ -39,7 +39,7 @@ days:
     date: "2026.09.17"
     sessions:
       - title: "Easy Run"
-        specs: "11 km, Zone 2"
+        specs: "11 km"
         guidelines: "Easy, absorb yesterday's tempo."
         strava_url: null
         fit_file: null
@@ -50,7 +50,7 @@ days:
     date: "2026.09.18"
     sessions:
       - title: "Easy Run"
-        specs: "11 km, Zone 2"
+        specs: "11 km"
         guidelines: "Very easy — legs should feel fresh for tomorrow's medium-long run."
         strava_url: null
         fit_file: null

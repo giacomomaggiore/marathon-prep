@@ -16,9 +16,9 @@ days:
   - day: 2
     date: "2026.11.17"
     sessions:
-      - title: "Intervals"
-        specs: "5 x 1000 m @ 3:30/km, 2 min jog + 4 x 20 s strides"
-        guidelines: "Short and sharp — volume way down, intensity still present. Should feel snappy, not draining."
+      - title: "Threshold Intervals"
+        specs: "5 x 1000 m @ 3:36/km, 90 s jog + 4 x 20 s strides"
+        guidelines: "Short and controlled — volume way down, threshold rhythm still present. Should feel snappy, not draining."
         strava_url: null
         fit_file: null
         real_training: null
@@ -28,7 +28,7 @@ days:
     date: "2026.11.18"
     sessions:
       - title: "Easy Run"
-        specs: "10 km, Zone 2 + 4 x 20 s strides"
+        specs: "10 km + 4 x 20 s strides"
         guidelines: "Easy, with a few sharp strides at the end to keep the legs neuromuscularly primed during the taper."
         strava_url: null
         fit_file: null
@@ -39,7 +39,7 @@ days:
     date: "2026.11.19"
     sessions:
       - title: "Easy Run"
-        specs: "10 km, Zone 2 + 6 x 20 s strides"
+        specs: "10 km + 6 x 20 s strides"
         guidelines: "Easy, legs should be starting to feel fresher day by day."
         strava_url: null
         fit_file: null
@@ -50,7 +50,7 @@ days:
     date: "2026.11.20"
     sessions:
       - title: "Easy Run"
-        specs: "10 km, Zone 2"
+        specs: "10 km"
         guidelines: "Very easy, short."
         strava_url: null
         fit_file: null
