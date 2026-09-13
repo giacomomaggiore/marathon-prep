@@ -8,24 +8,24 @@ function Value({ children }: { children: string | null }) {
 }
 
 function Session({ session }: { session: TrainingSession }) {
-  const notes = [session.giacomo_notes, session.ai_analysis].filter(Boolean).join(" / ");
-
   return (
     <div className="session">
-      <section className="workout__section">
+      <section className="workout__section workout__plan">
         <h3 title={session.title}>{session.title}</h3>
         <Value>{session.specs}</Value>
       </section>
       <section className="workout__section">
-        <Value>{session.real_training}</Value>
-        {session.strava_id && (
+        {session.strava_id ? (
           <a className="strava-link" href={`https://www.strava.com/activities/${session.strava_id}`} target="_blank" rel="noreferrer">
-            Strava
+            <Value>{session.real_training}</Value>
           </a>
-        )}
+        ) : <Value>{session.real_training}</Value>}
       </section>
       <section className="workout__section">
-        <Value>{notes || null}</Value>
+        <Value>{session.giacomo_notes}</Value>
+      </section>
+      <section className="workout__section">
+        <Value>{session.ai_analysis}</Value>
       </section>
     </div>
   );
@@ -70,13 +70,14 @@ export function WeeklyScroller({ weeks }: { weeks: TrainingWeek[] }) {
             </div>
             <div className="week__identity">
               <h2>WEEK {String(week.week).padStart(2, "0")}</h2>
-              <p>{week.phase}</p>
+              
             </div>
           </header>
           <div className="column-labels" aria-hidden="true">
             <span>PLAN</span>
             <span>ACTUAL</span>
-            <span>NOTES + AI</span>
+            <span>NOTES</span>
+            <span>AI</span>
           </div>
           <div className="week__workouts">
             {week.days.map((day) => <Workout key={`${week.week}-${day.day}`} day={day} />)}
