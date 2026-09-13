@@ -1,79 +1,79 @@
 ---
-week: 2
-phase: "Build 1"
+week: 4
+phase: "Build 2 – Cutback / Travel"
 days:
   - day: 1
-    date: "2026.09.21"
+    date: "2026.10.05"
     sessions:
       - title: "Easy Run"
         specs: "12 km @ 4:55/km, Zone 2"
-        guidelines: "Keep it relaxed after yesterday's rest day."
+        guidelines: "Standard easy day."
         strava_url: null
         fit_file: null
         real_training: null
         giacomo_notes: null
         ai_analysis: null
   - day: 2
-    date: "2026.09.22"
+    date: "2026.10.06"
     sessions:
-      - title: "Tempo"
-        specs: "3 x 10 min @ 3:38/km, 2 min jog"
-        guidelines: "Only quality session this week besides Sunday's race — hold the same effort across all three blocks."
+      - title: "Intervals"
+        specs: "6 x 1000 m @ 3:22/km, 90 s jog"
+        guidelines: "Last hard session before the cutback/travel days — no need to push beyond controlled effort."
         strava_url: null
         fit_file: null
         real_training: null
         giacomo_notes: null
         ai_analysis: null
   - day: 3
-    date: "2026.09.23"
+    date: "2026.10.07"
     sessions:
       - title: "Strength"
         specs: "40 min lower-body strength (standard routine)"
-        guidelines: "No run today. Keep load moderate."
+        guidelines: "No run today. Keep it light heading into the travel days."
         strava_url: null
         fit_file: null
         real_training: null
         giacomo_notes: null
         ai_analysis: null
   - day: 4
-    date: "2026.09.24"
+    date: "2026.10.08"
     sessions:
       - title: "Easy Run"
         specs: "11 km @ 5:00/km"
-        guidelines: "No second hard session this week — Sunday's race is the stimulus, so keep this conversational."
+        guidelines: "Cutback week — no second hard session. Keep it easy."
         strava_url: null
         fit_file: null
         real_training: null
         giacomo_notes: null
         ai_analysis: null
   - day: 5
-    date: "2026.09.25"
+    date: "2026.10.09"
     sessions:
       - title: "Easy Run"
-        specs: "10 km @ 5:05/km"
-        guidelines: "Stay light and relaxed, two days out from PolimiRun."
+        specs: "9 km @ 5:05/km"
+        guidelines: "Holiday travel begins — kept deliberately easy, no speed today as planned."
         strava_url: null
         fit_file: null
         real_training: null
         giacomo_notes: null
         ai_analysis: null
   - day: 6
-    date: "2026.09.26"
+    date: "2026.10.10"
     sessions:
-      - title: "Shakeout Run"
-        specs: "10 km @ 5:00/km"
-        guidelines: "Short and easy the day before the race — leave everything on the table for tomorrow."
+      - title: "Easy Run"
+        specs: "11 km @ 5:05/km"
+        guidelines: "Holiday day 2 — fully easy, run by feel around your travel schedule."
         strava_url: null
         fit_file: null
         real_training: null
         giacomo_notes: null
         ai_analysis: null
   - day: 7
-    date: "2026.09.27"
+    date: "2026.10.11"
     sessions:
-      - title: "PolimiRun"
-        specs: "Race — long run / tempo effort (distance and pace per race conditions)"
-        guidelines: "Treat this as this week's long run / tempo stimulus. Fuel and pace by feel; no need to force marathon pace."
+      - title: "Long Run"
+        specs: "18 km @ 4:55-5:10/km, Zone 2 only — no intervals or reps"
+        guidelines: "Holiday weekend long run: pure easy aerobic, no marathon-pace segment this week. Run by feel, not by watch."
         strava_url: null
         fit_file: null
         real_training: null

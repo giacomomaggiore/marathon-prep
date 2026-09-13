@@ -1,79 +1,79 @@
 ---
-week: 1
-phase: "Build 1"
+week: 5
+phase: "Build 3"
 days:
   - day: 1
-    date: "2026.09.14"
+    date: "2026.10.12"
     sessions:
       - title: "Easy Run"
-        specs: "12 km @ 4:55/km, Zone 2"
-        guidelines: "Relaxed aerobic effort, quick cadence, HR under ~148 bpm."
+        specs: "13 km @ 4:55/km, Zone 2"
+        guidelines: "Back from travel — kept easy, no speed today as planned."
         strava_url: null
         fit_file: null
         real_training: null
         giacomo_notes: null
         ai_analysis: null
   - day: 2
-    date: "2026.09.15"
+    date: "2026.10.13"
     sessions:
       - title: "Intervals"
-        specs: "8 x 1000 m @ 3:22/km, 90 s jog"
-        guidelines: "Warm up 3 km. Start controlled — reps 1-2 slightly conservative, hold even splits after that."
+        specs: "5 x 1600 m @ 3:24/km, 2:30 min jog"
+        guidelines: "Longer reps this week, slightly more aerobic bias. Warm up 3 km, hold pace even across all five."
         strava_url: null
         fit_file: null
         real_training: null
         giacomo_notes: null
         ai_analysis: null
   - day: 3
-    date: "2026.09.16"
+    date: "2026.10.14"
     sessions:
       - title: "Strength"
         specs: "40 min lower-body strength (standard routine)"
-        guidelines: "Moderate load. No run today — keep this session controlled, no fatigue chasing this early in the build."
+        guidelines: "No run today. Resume normal load now that travel is over."
         strava_url: null
         fit_file: null
         real_training: null
         giacomo_notes: null
         ai_analysis: null
   - day: 4
-    date: "2026.09.17"
+    date: "2026.10.15"
     sessions:
       - title: "Tempo"
-        specs: "20 min @ 3:40/km, continuous"
-        guidelines: "Settle into rhythm by minute 5. HR should sit around 158-163 bpm."
+        specs: "30 min @ 3:38/km, continuous"
+        guidelines: "Back into build mode — settle by minute 5-6, hold HR ~160-165 bpm."
         strava_url: null
         fit_file: null
         real_training: null
         giacomo_notes: null
         ai_analysis: null
   - day: 5
-    date: "2026.09.18"
+    date: "2026.10.16"
     sessions:
       - title: "Easy Run"
-        specs: "10 km @ 5:05/km"
-        guidelines: "Very easy — legs should feel fresh for tomorrow's medium-long run."
+        specs: "11 km @ 5:00/km"
+        guidelines: "Easy, absorb the week's two hard days."
         strava_url: null
         fit_file: null
         real_training: null
         giacomo_notes: null
         ai_analysis: null
   - day: 6
-    date: "2026.09.19"
+    date: "2026.10.17"
     sessions:
       - title: "Medium-Long Run"
-        specs: "15 km @ 4:55/km + 6 x 20 s strides"
-        guidelines: "Steady aerobic effort throughout; strides at the end are fast and relaxed, not maximal."
+        specs: "17 km @ 4:50/km + 6 x 20 s strides"
+        guidelines: "Steady aerobic effort; relaxed fast strides at the end."
         strava_url: null
         fit_file: null
         real_training: null
         giacomo_notes: null
         ai_analysis: null
   - day: 7
-    date: "2026.09.20"
+    date: "2026.10.18"
     sessions:
       - title: "Long Run"
-        specs: "22 km @ 4:45-5:00/km, easy aerobic"
-        guidelines: "No marathon-pace work yet — pure aerobic volume. Fuel after 60 minutes."
+        specs: "28 km: 20 km @ 4:45-5:00/km easy + 8 km @ 3:48/km (MP)"
+        guidelines: "MP block extended to 8 km. Fuel after 60 minutes; MP portion should feel rhythmic, HR ~156-163 bpm."
         strava_url: null
         fit_file: null
         real_training: null
