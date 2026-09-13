@@ -6,7 +6,8 @@ export type TrainingSession = {
   title: string;
   specs: string;
   guidelines: string;
-  strava_id: string | null;
+  strava_url: string | null;
+  fit_file: string | null;
   real_training: string | null;
   giacomo_notes: string | null;
   ai_analysis: string | null;

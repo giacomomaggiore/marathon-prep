@@ -15,8 +15,8 @@ function Session({ session }: { session: TrainingSession }) {
         <Value>{session.specs}</Value>
       </section>
       <section className="workout__section">
-        {session.strava_id ? (
-          <a className="strava-link" href={`https://www.strava.com/activities/${session.strava_id}`} target="_blank" rel="noreferrer">
+        {session.strava_url ? (
+          <a className="strava-link" href={session.strava_url} target="_blank" rel="noreferrer">
             <Value>{session.real_training}</Value>
           </a>
         ) : <Value>{session.real_training}</Value>}
