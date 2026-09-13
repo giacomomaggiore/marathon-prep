@@ -1,0 +1,94 @@
+@import "tailwindcss";
+
+:root {
+  --ink: #000000;
+  --utility: #4b5563;
+  --rule: #e5e7eb;
+  --empty: #9ca3af;
+}
+
+* { box-sizing: border-box; }
+
+html { background: #ffffff; scroll-snap-type: y mandatory; }
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background: #ffffff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.dashboard {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.week {
+  display: grid;
+  grid-template-rows: auto auto minmax(0, 1fr);
+  height: 100svh;
+  padding: 34px 48px 32px;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+}
+
+.masthead {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--ink);
+}
+
+.eyebrow, .utility-label, .column-labels, .workout__date {
+  margin: 0;
+  color: var(--utility);
+  font-family: inherit;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 1.4;
+}
+
+h1, h2, h3, p { margin-top: 0; }
+h1 { margin-bottom: 0; font-size: 32px; font-weight: 800; line-height: 1; letter-spacing: 0; }
+h2 { margin: 0; font-size: 12px; font-weight: 800; letter-spacing: 0; }
+h3 { margin-bottom: 3px; font-size: 12px; font-weight: 800; line-height: 1.1; letter-spacing: 0; }
+
+.column-labels, .session {
+  display: grid;
+  grid-template-columns: 1.25fr 0.9fr 1fr;
+  column-gap: 40px;
+}
+
+.column-labels {
+  padding: 13px 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.week__identity { text-align: right; }
+.week__identity p { margin: 5px 0 0; color: var(--utility); font-size: 12px; }
+.week__workouts { display: grid; grid-auto-rows: minmax(0, 1fr); }
+.workout { display: flex; flex-direction: column; justify-content: center; min-height: 0; padding: 7px 0; border-bottom: 1px solid var(--rule); }
+.workout:last-child { border-bottom: 0; }
+.workout__date { margin-bottom: 4px; }
+.workout__sessions { display: grid; gap: 4px; }
+.session + .session { padding-top: 4px; border-top: 1px dotted var(--rule); }
+.workout__section { min-width: 0; }
+.value { overflow: hidden; margin-bottom: 3px; font-size: 11px; line-height: 1.3; text-overflow: ellipsis; white-space: nowrap; }
+.value--empty { color: var(--empty); }
+.strava-link { display: inline-block; color: var(--ink); font-family: inherit; font-size: 10px; font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }
+
+@media (max-width: 700px) {
+  html { scroll-snap-type: none; }
+  .week { height: auto; min-height: 100svh; padding: 24px 20px 48px; }
+  .masthead { align-items: start; gap: 16px; }
+  h1 { font-size: 26px; }
+  .week__identity { max-width: 100px; }
+  .column-labels { display: none; }
+  .session { grid-template-columns: 1fr; gap: 8px; }
+  .value { overflow: visible; white-space: normal; }
+  .workout__section { padding: 13px 0; border-top: 1px solid var(--rule); }
+  .workout__section:first-child { border-top: 0; padding-top: 0; }
+  .workout__date { margin-bottom: 16px; }
+}
